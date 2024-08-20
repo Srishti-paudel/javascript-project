@@ -1,3 +1,4 @@
 # javascript-project
-myproject
+this is my git repository
+<br>
 Author- Srishti-paudel
